@@ -1,0 +1,12 @@
+POST https://render-service-odnr.onrender.com/api/notes
+Content-Type: application/json 
+
+{
+	content: "there is a method known as HEAD ",
+	important: true
+}
+
+
+###
+GET https://render-service-odnr.onrender.com/api/notes/4
+
