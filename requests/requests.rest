@@ -8,5 +8,8 @@ Content-Type: application/json
 
 
 ###
-GET https://render-service-odnr.onrender.com/api/notes/4
+GET https://render-service-odnr.onrender.com/api/notes
 
+###
+
+GET http://localhost:3001/api/notes
